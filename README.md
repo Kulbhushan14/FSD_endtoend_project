@@ -17,4 +17,6 @@ git add . for add all the files at onces
 '''
 git commit -m "This is my first commit"
 ''' 
-
+''''
+bash your_file_name.sh
+''''
